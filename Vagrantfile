@@ -10,8 +10,8 @@ password: thirtybees
 ------------------------------------------------------
 MSG
 
-# Optimized for Vagrant 1.7 and above.
-Vagrant.require_version ">= 1.7.0"
+# Optimized for Vagrant 2.0.1 and above.
+Vagrant.require_version ">= 2.0.1"
 
 # Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
 VAGRANTFILE_API_VERSION = "2"
